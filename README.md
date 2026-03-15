@@ -14,8 +14,6 @@
 ## 📂 Featured Projects
 - 🔧 [Project Name 1](#) – Todo
 
-*(Replace with actual repositories once you upload them!)*
-
 ## 🌱 Currently Exploring
 - Advanced concepts in **5G architecture**
 - Optimizing **network performance** with C++
