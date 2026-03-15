@@ -24,9 +24,9 @@
 - Contributing to **open-source telecom projects**
 
 ## 📫 Connect With Me
-- [LinkedIn](#)  
-- [Email](#)  
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/kishorkumar-t-b6b684146/)  
+- [Email](orangekishor@gmail.com)  
+- [GitHub](https://github.com/orangekishor)
 
 ---
 ⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate!
