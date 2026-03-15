@@ -12,9 +12,7 @@
 - **Interests:** High-performance computing, distributed systems, real-time applications
 
 ## 📂 Featured Projects
-- 🔧 [Project Name 1](#) – Short description (e.g., "Implementation of a lightweight packet parser in C++")
-- 📡 [Project Name 2](#) – Short description (e.g., "Simulation of 5G core network functions")
-- ⚙️ [Project Name 3](#) – Short description (e.g., "Performance benchmarking tool for telecom workloads")
+- 🔧 [Project Name 1](#) – Todo
 
 *(Replace with actual repositories once you upload them!)*
 
